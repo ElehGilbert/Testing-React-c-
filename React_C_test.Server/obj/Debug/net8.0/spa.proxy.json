@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\mj\\Desktop\\Engineering\\C#\\React_C_test\\React_C_test.Server\\..\\react_c_test.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
